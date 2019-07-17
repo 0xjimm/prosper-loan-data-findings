@@ -38,4 +38,6 @@ been completed or are current followed a linear correlation between estimated an
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+For the presentation, I focus on the journey of exploring the features of interest to discover which loan features are most important to higher returns.
+
+I begin with introducing the features of interest one by one, followed by how they relate to one another and eventually how they correlate with estimated returns and actual returns.
