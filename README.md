@@ -1,6 +1,7 @@
 # Prosper Loan Data Exploration
 ## by Jimmy Le
 
+## [View Notebook](https://github.com/lejimmy/communicate-data-findings/blob/master/prosper-loan-data-exploration.ipynb)
 
 ## Dataset
 
